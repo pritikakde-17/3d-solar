@@ -1,0 +1,27 @@
+body {
+  margin: 0;
+  background-color: black;
+  color: white;
+  font-family: Arial, sans-serif;
+  overflow: hidden;
+}
+
+h1 {
+  text-align: center;
+  margin: 10px;
+}
+
+#solarSystem {
+  display: block;
+  width: 100vw;
+  height: 90vh;
+}
+
+#controls {
+  position: absolute;
+  top: 50px;
+  left: 10px;
+  background: rgba(0,0,0,0.7);
+  padding: 10px;
+  border-radius: 8px;
+}
